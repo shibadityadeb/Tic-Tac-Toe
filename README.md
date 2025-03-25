@@ -1,12 +1,20 @@
-# React + Vite
+# Tic-Tac-Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo  
+[Play Now](https://sunny-speculoos-e76c9a.netlify.app/)
 
-Currently, two official plugins are available:
+## Description  
+This is a web-based Tic-Tac-Toe game built with React.js. It features a responsive UI, real-time game status updates, and a confetti animation effect using `canvas-confetti` to celebrate wins.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features  
+- Interactive 3x3 grid-based game  
+- Real-time game status updates (Win, Draw, Player Turn)  
+- Confetti animation on player win  
+- Reset functionality to restart the game  
+- Deployed online for easy access  
 
-## Expanding the ESLint configuration
+## Technologies Used  
+- **Frontend:** vite+React.js, JavaScript, HTML, CSS  
+- **Animation:** canvas-confetti  
+- **Deployment:** Netlify  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
