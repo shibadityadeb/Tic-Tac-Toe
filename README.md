@@ -16,5 +16,12 @@ This is a web-based Tic-Tac-Toe game built with React.js. It features a responsi
 ## Technologies Used  
 - **Frontend:** vite+React.js, JavaScript, HTML, CSS  
 - **Animation:** canvas-confetti  
-- **Deployment:** Netlify  
+- **Deployment:** Netlify
+   
+##Contributing
+If you’d like to contribute, feel free to fork the repository and submit a pull request!
 
+##License
+This project is licensed under the MIT License.
+
+Made with ❤️ by Shibaditya Deb
