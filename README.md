@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Game
 
 ## Live Demo  
-[Play Now]([https://sunny-speculoos-e76c9a.netlify.app/](https://tictactoebydebshibaditya.netlify.app/))
+https://tictactoebydebshibaditya.netlify.app/
 
 ## Description  
 This is a web-based Tic-Tac-Toe game built with React.js. It features a responsive UI, real-time game status updates, and a confetti animation effect using `canvas-confetti` to celebrate wins.
